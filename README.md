@@ -5,6 +5,8 @@
 - Configure subscription level logging and forwarding to Log Analytics Workspace.
 - Analyze some subscription level logs on LAW.
 
+VMs do not need to be on for this lab.
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/subscription-level-logging-images/main/Subscription%20Level%20Logging%20diagram.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/subscription-level-logging-images/main/Subscription%20Level%20Logging%20diagram%203.png"/>
